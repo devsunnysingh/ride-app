@@ -1,5 +1,5 @@
 import React from "react";
-import MenuIcon from '@mui/icons-material/Menu';
+import MenuIcon from "@mui/icons-material/Menu";
 
 const HomeNavbar = () => {
   return (
@@ -44,12 +44,12 @@ const HomeNavbar = () => {
           </div>
           <div>
             <button className="bg-gray-700 text-white hover:bg-gray-900 text-sm font-semibold px-4 py-3">
-              Book and Ola Cab
+              Book an Ola Cab
             </button>
             <button className="bg-white text-black hover:bg-gray-300 text-sm font-semibold px-4 py-3 ml-5">
               free s1 test ride
             </button>
-            <MenuIcon className="ml-5 text-white text-3xl"/>
+            <MenuIcon className="ml-5 text-white text-3xl" />
           </div>
         </div>
       </div>
